@@ -1,2 +1,1 @@
-# RCC
-# RCC
+FreeToDo is a simple and secure task management web app built using Streamlit, allowing users to register, log in, and manage personal to-do lists. It features user authentication with secure password handling using `bcrypt`, email validation, task operations (add, complete, delete), and persistent storage with SQLite. Developed with Python and libraries like `streamlit-authenticator`, `passlib`, `pytz`, and `email-validator`, the app is deployed on Streamlit Cloud and offers an intuitive interface for organizing tasks efficiently.
