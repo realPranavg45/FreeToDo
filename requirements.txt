@@ -4,3 +4,4 @@ PyYAML
 passlib[bcrypt]
 bcrypt
 email-validator
+password-validator
