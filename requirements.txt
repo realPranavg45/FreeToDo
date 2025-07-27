@@ -3,3 +3,4 @@ streamlit-authenticator
 PyYAML
 passlib[bcrypt]
 bcrypt
+email-validator
